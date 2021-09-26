@@ -2,7 +2,7 @@
 
 This project link : (https://dazzling-hodgkin-5e11e2.netlify.app/)
 
-## Available Scripts
+## Website details
 
 In the project directory, you can run:
 
