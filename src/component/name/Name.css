@@ -1,0 +1,14 @@
+.name img{
+   width: 100px;
+   height: 60px;
+   border-radius: 10px;
+   margin-right: 10px;
+}
+.name{
+  display: flex;
+  background-color: rgb(187, 209, 247);
+  margin-bottom: 8px;
+  margin-right: 18px;
+  padding: 10px;
+  border-radius: 10px;
+}

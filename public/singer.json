@@ -1,0 +1,119 @@
+[
+  {
+    "name": "atif aslam",
+    "num": 1,
+    "country": "pakisthan",
+    "musictype": "romantic",
+    "age": 38,
+    "salary": 1000000,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Atif_Aslam_at_Badlapur_%28cropped%29.jpg"
+  },
+  {
+    "name": "Rahat Fateh Ali Khan",
+    "num": 2,
+    "country": "pakisthan",
+    "musictype": "Qawwali",
+    "age": 46,
+    "salary": 600000,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e0/IIFA-2014-GreenCarpet2_%28163%29_%2814021588865%29.jpg"
+  },
+  {
+    "name": "Ayub Bachchu",
+    "num": 3,
+    "country": "Bangladesh",
+    "musictype": "rock",
+    "age": 56,
+    "salary": 900000,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/LRB_Ayub_Bachchu_%28cropped%29.jpg"
+  },
+  {
+    "name": "Asif Akbar",
+    "num": 4,
+    "country": "Bangladesh",
+    "musictype": "pop",
+    "age": 49,
+    "salary": 300000,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/Asif_Akbar_in_a_Program_on_2017_1.jpg"
+  },
+  {
+    "name": "Habib Wahid",
+    "num": 5,
+    "country": "Bangladesh",
+    "musictype": "pop",
+    "age": 41,
+    "salary": 400000,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Habib%27s_picture_for_wikipedia.JPG"
+  },
+  {
+    "name": "Bappa Mazumder",
+    "num": 6,
+    "country": "Bangladesh",
+    "musictype": "romantic",
+    "age": 49,
+    "salary": 200000,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/40/Bappa_Mazumder.jpg"
+  },
+  {
+    "name": "Tahsan Rahman Khan",
+    "num": 7,
+    "country": "Bangladesh",
+    "musictype": "romantic",
+    "age": 41,
+    "salary": 1200000,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/38/Tahsan_Rahman_Khan_%2801%29.jpg"
+  },
+  {
+    "name": "Arijit Singh",
+    "num": 8,
+    "country": "India",
+    "musictype": "filmi",
+    "age": 34,
+    "salary": 1400000,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Arijit_5th_GiMA_Awards.jpg"
+  },
+  {
+    "name": "Sonu Nigam",
+    "num": 9,
+    "country": "India",
+    "musictype": "filmi",
+    "age": 48,
+    "salary": 300000,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/SonuNigam01.jpg"
+  },
+  {
+    "name": "Shreya Ghoshal",
+    "num": 10,
+    "country": "India",
+    "musictype": "Indian classical",
+    "age": 37,
+    "salary": 1500000,
+    "image": "https://www.iwmbuzz.com/wp-content/uploads/2021/05/singer-shreya-ghoshal-blessed-with-a-baby-boy-920x518.jpg"
+  },
+  {
+    "name": "Selena Gomez",
+    "num": 11,
+    "country": "America",
+    "musictype": "pop",
+    "age": 29,
+    "salary": 200000,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Selena_Gomez_in_2021.jpg"
+  },
+  {
+    "name": "Eminem",
+    "num": 12,
+    "country": "America",
+    "musictype": "Hip hop",
+    "age": 48,
+    "salary": 2000000,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Eminem_-_Concert_for_Valor_in_Washington%2C_D.C._Nov._11%2C_2014_%282%29_%28Cropped%29.jpg"
+  },
+  {
+    "name": "Jennifer Lopez",
+    "num": 13,
+    "country": "America",
+    "musictype": "romantic",
+    "age": 52,
+    "salary": 1100000,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b4/TIFF_2019_jlo_%281_of_1%29-2_%2848696671561%29_%28cropped%29.jpg"
+  }
+]
